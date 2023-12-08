@@ -2,6 +2,13 @@
 
 [![Github](https://img.shields.io/github/followers/Matheus-A-Barboza?label=Follow&style=social)](https://github.com/Matheus-A-Barboza)
 
+<!-- Linkedin
+<a href="https://www.linkedin.com/in/matheus-barboza/" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"  />
+  </a>
+  <br>
+  -->
+
 Hello, world! Bem Vindo ao meu Perfil!👩🏻‍💻
 
     👋 Me chamo Matheus e tenho 21 anos!
@@ -10,6 +17,15 @@ Hello, world! Bem Vindo ao meu Perfil!👩🏻‍💻
     📫 Como chegar até mim: Linkedin -> Matheus Barboza | Gmail -> matheusbarbozza02@gmail.com
 
 ##
+
+<div align="center">
+   <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Matheus-A-Barboza&show_icons=true&theme=transparent" 
+      media="(prefers-color-scheme: dracula)"
+    />
+    <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-A-Barboza&show_icons=true" />
+  </picture>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-A-Barboza&theme=vision-friendly-dark&layout=donut" alt="Top Langs" />
@@ -42,8 +58,7 @@ Hello, world! Bem Vindo ao meu Perfil!👩🏻‍💻
       <td>
          <img src="https://th.bing.com/th/id/R.0f423f0c34a631f78acbd7884864d668?rik=bl6Imw%2bHhnmFBA&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fpapirus-team%2fpapirus-apps%2f512%2fmysql-workbench-icon.png&ehk=n3DZDWOTg3mAvgFHYuINFim75oqbVU4610FTMpTpbNk%3d&risl=&pid=ImgRaw&r=0" width="40" height="40">
         <img src="https://cdn.discordapp.com/emojis/804440507438727179.webp?size=56&quality=lossless">
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-        <img src="https://static-00.iconduck.com/assets.00/dbeaver-icon-512x506-p5mxyxd5.png" width="40" height="40">
+          <img src="https://www.databasejournal.com/wp-content/uploads/2023/01/postgresql-tutorials-291x300.png" width="40" height="40">
       </td>
     </tr>
     <tr>
