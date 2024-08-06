@@ -12,7 +12,7 @@
 Hello, world! Bem Vindo ao meu Perfil!👩🏻‍💻
 
     👋 Me chamo Matheus e tenho 21 anos!
-    🐛 Cursando 4º semestre de Análise e Desenvolvimento de Sistemas!
+    🐛 Cursando 5º semestre de Análise e Desenvolvimento de Sistemas!
     👀 Fascinado por Programação, e apaixonado por Python e DB!
     📫 Como chegar até mim: Linkedin -> Matheus Barboza | Gmail -> matheusbarbozza02@gmail.com
 
