@@ -50,7 +50,7 @@ Hello, world! Bem Vindo ao meu Perfil!👩🏻‍💻
       <td>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff">
       </td>
     </tr>
     <tr>
@@ -59,6 +59,7 @@ Hello, world! Bem Vindo ao meu Perfil!👩🏻‍💻
          <img src="https://th.bing.com/th/id/R.0f423f0c34a631f78acbd7884864d668?rik=bl6Imw%2bHhnmFBA&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fpapirus-team%2fpapirus-apps%2f512%2fmysql-workbench-icon.png&ehk=n3DZDWOTg3mAvgFHYuINFim75oqbVU4610FTMpTpbNk%3d&risl=&pid=ImgRaw&r=0" width="40" height="40">
         <img src="https://cdn.discordapp.com/emojis/804440507438727179.webp?size=56&quality=lossless">
           <img src="https://www.databasejournal.com/wp-content/uploads/2023/01/postgresql-tutorials-291x300.png" width="40" height="40">
+          <img src="https://pluspng.com/img-png/firebase-logo-png-firebase-logo-png-transparent-amp-svg-vector-pluspng-2400x3291.png" width="40" height="40">
       </td>
     </tr>
     <tr>
@@ -71,6 +72,7 @@ Hello, world! Bem Vindo ao meu Perfil!👩🏻‍💻
       <td>Versionamento</td>
       <td>
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff">
       </td>
     </tr>
   </table>
