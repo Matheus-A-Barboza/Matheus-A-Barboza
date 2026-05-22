@@ -18,20 +18,6 @@ Hello, world! Bem Vindo ao meu Perfil!👩🏻‍💻
 
 ##
 
-<div align="center">
-   <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=Matheus-A-Barboza&show_icons=true&theme=transparent" 
-      media="(prefers-color-scheme: dracula)"
-    />
-    <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-A-Barboza&show_icons=true" />
-  </picture>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-A-Barboza&theme=vision-friendly-dark&layout=donut" alt="Top Langs" />
-</div>
-
-##
 
 <div align="center">
   <h1>Tecnologias</h1>
