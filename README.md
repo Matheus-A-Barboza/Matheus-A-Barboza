@@ -25,8 +25,8 @@ Hello, world! Bem Vindo ao meu Perfil!👩🏻‍💻
     <tr>
       <td>IDEs</td>
       <td>
-        <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/pycharm_93936.png" width="40" height="40">
-        <img src="https://static-00.iconduck.com/assets.00/file-type-vscode-icon-512x508-376y62ux.png" width="40" height="40">
+         <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+         <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/pycharm_93936.png" width="40" height="40">
 <!--    <br> -->
         <img src="https://th.bing.com/th/id/R.98865e06d77faca32b3e118df119049e?rik=AU0%2bE0ROLAbnog&riu=http%3a%2f%2flogonoid.com%2fimages%2fintellij-idea-logo.png&ehk=CapqYnZAeX0cbsUWxFNWr913YwdQDC7OFt%2ftIAEb%2fBU%3d&risl=&pid=ImgRaw&r=0" width="40" height="40">
       </td>
@@ -43,8 +43,7 @@ Hello, world! Bem Vindo ao meu Perfil!👩🏻‍💻
       <td>Banco de Dados</td>
       <td>
          <img src="https://th.bing.com/th/id/R.0f423f0c34a631f78acbd7884864d668?rik=bl6Imw%2bHhnmFBA&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fpapirus-team%2fpapirus-apps%2f512%2fmysql-workbench-icon.png&ehk=n3DZDWOTg3mAvgFHYuINFim75oqbVU4610FTMpTpbNk%3d&risl=&pid=ImgRaw&r=0" width="40" height="40">
-        <img src="https://cdn.discordapp.com/emojis/804440507438727179.webp?size=56&quality=lossless">
-          <img src="https://www.databasejournal.com/wp-content/uploads/2023/01/postgresql-tutorials-291x300.png" width="40" height="40">
+          <img width="48" height="48" src="https://img.icons8.com/color/48/supabase.png" alt="supabase"/>
           <img src="https://pluspng.com/img-png/firebase-logo-png-firebase-logo-png-transparent-amp-svg-vector-pluspng-2400x3291.png" width="40" height="40">
       </td>
     </tr>
