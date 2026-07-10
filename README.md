@@ -11,9 +11,9 @@
 
 Hello, world! Bem Vindo ao meu Perfil!👩🏻‍💻
 
-    👋 Me chamo Matheus e tenho 22 anos!
-    🐛 Formado em Análise e Desenvolvimento de Sistemas e Pós-Graduando em Ciência de Dados!
-    👀 Fascinado por Programação, e apaixonado por Python, Flutter e DB!
+    👋 Me chamo Matheus e tenho 24 anos!
+    🐛 Formado em Análise e Desenvolvimento de Sistemas e Pós-Graduado em Ciência de Dados!
+    👀 Fascinado por Programação, e apaixonado por Python e DB!
     📫 Como chegar até mim: Linkedin -> Matheus Barboza | Gmail -> matheusbarbozza02@gmail.com
 
 ##
